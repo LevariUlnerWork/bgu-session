@@ -7,6 +7,8 @@ import configureStore from './redux/store/configure-store'
 
 const store = configureStore()
 
+//comment
+
 render(
   <Provider store={store}>
     <Page />
